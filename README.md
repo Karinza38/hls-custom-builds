@@ -1,4 +1,4 @@
-# Custom HLS Builds
+ # Custom HLS Builds
 
 This repo contains some helper scripts, a patch file, & the upstream
 `haskell-language-server` repository as a submodule.
